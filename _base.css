@@ -1,0 +1,15 @@
+
+img, iframe {
+  vertical-align: bottom;
+  max-width: 100%;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  margin:0;
+  padding:0;
+}
