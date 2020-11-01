@@ -4,7 +4,7 @@ const wiper = document.createElement('div')
 wiper.classList.add('wiper')
 
 const wiperImage = document.createElement('img')
-wiperImage.setAttribute('src', 'logo.svg')
+wiperImage.setAttribute('src', 'images/logo.svg')
 const wiperHolder = document.createElement('div')
 const wiperText = document.createElement('h2')
 
